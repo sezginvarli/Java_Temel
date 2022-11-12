@@ -2,7 +2,7 @@ package Pratics;
 
 import java.util.Scanner;
 
-public class _01_Pratik_Not_Ortalaması_Hesaplama {
+public class _01_Not_Ortalaması_Hesaplama {
     public static void main(String[] args) {
         // Variables oluştur
         int mat, fizik, kimya, turkce, tarih, muzik;
